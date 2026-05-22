@@ -5,7 +5,7 @@
 📍 Chattogram, Bangladesh
 📞 +88 01879-691133
 📧 [akhtaruzzaman05@gmail.com](mailto:akhtaruzzaman05@gmail.com)
-🔗 LinkedIn: linkedin.com/in/md-akhtar-uzzaman
+🔗 LinkedIn: [linkedin.com/in/md-akhtar-uzzaman](https://linkedin.com/in/md-akhtar-uzzaman)
 
 ---
 
