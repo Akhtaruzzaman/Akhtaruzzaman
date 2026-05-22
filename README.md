@@ -218,4 +218,5 @@ ASP.NET MVC, SQL Server, HTML5, Bootstrap, CSS3, JavaScript
 * Strong experience in ERP, compliance, and enterprise software development.
 * Experienced in Agile development processes, sprint planning, and team collaboration.
 * Skilled in designing scalable, maintainable, and business-focused software solutions.
+* Worked with MCP tools and actively practicing with RAG, LangChain, vector databases, vibe coding, and AI tools.
 * Passionate about cloud-native applications, distributed systems, and AI-driven software solutions.
