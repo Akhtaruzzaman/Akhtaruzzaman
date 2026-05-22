@@ -26,7 +26,7 @@ Currently working as a Manager and Technical Lead at EY Bangladesh, leading the 
 * ASP.NET Core
 * ASP.NET MVC
 * .NET Web API
-* gRPC
+* Java and python (intermediate level)
 * Node.js
 * RESTful API Development
 
