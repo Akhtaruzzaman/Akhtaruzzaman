@@ -213,6 +213,15 @@ ASP.NET MVC, SQL Server, HTML5, Bootstrap, CSS3, JavaScript
 
 ---
 
+# Achievements
+
+* Successfully completed all assigned projects, and the delivered products are still running in the market.
+* Consistently delivered enterprise applications that support real-world business operations in production environments.
+* Built scalable and maintainable solutions that continue to provide long-term value to organizations.
+* Contributed to successful digital transformation initiatives through reliable product delivery and technical leadership.
+
+---
+
 # Additional Information
 
 * Strong experience in ERP, compliance, and enterprise software development.
