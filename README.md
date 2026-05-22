@@ -176,6 +176,15 @@ ASP.NET MVC, SQL Server, HTML5, Bootstrap, CSS3, JavaScript
 * Integrated RabbitMQ-based communication between ERP and web systems.
 * Supported multi-country manufacturing operations.
 
+## Accounting SaaS Product
+
+* Built a complete accounting SaaS product with IFRS standard reporting.
+* Developed core accounting modules including General Ledger, Accounts Payable, Accounts Receivable, and Fixed Assets.
+* Designed a multi-tenant architecture with role-based access control for secure organization-level data isolation.
+* Implemented financial statement generation including Balance Sheet, Income Statement, and Cash Flow reports.
+* Built month-end and year-end closing workflows with audit trail and approval tracking.
+* Optimized database queries and reporting pipelines for faster financial report processing.
+
 ## Falcon Order Management System
 
 * Built scalable international order management platform for manufacturing operations.
